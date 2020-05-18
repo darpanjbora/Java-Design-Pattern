@@ -29,8 +29,8 @@ Singleton Design pattern restricts the instantiation of a class to only one obje
 
 ## Contrast to Factory pattern 
 
-|Singleton                          |Factory                         |
-|----------------|-------------------------------|-----------------------------|
+| Singleton                          | Factory                         |
+|-------------------------------|-----------------------------|
 Returns same instance.            |Returns various instances            |
 No interface           |Interface driven          |
 One constructor method - no args|Multiple constructors|
